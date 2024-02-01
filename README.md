@@ -1,5 +1,5 @@
 ![Banner](https://clarikagroup.com/wp-content/uploads/2020/11/portada-nota-blog.png)
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<h1 align="center">Hi 👋, I'm Omar Makran</h1>
 <h3 align="center">Student at 1337 Coding, 42-Network </></h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
