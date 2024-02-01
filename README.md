@@ -3,8 +3,6 @@
 <h3 align="center">Student at 1337 Coding, 42-Network </></h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thee-falcon&label=Profile%20views&color=0e75b6&style=flat" alt="thee-falcon" /> </p>
-
 - 🔭 I’m currently working on **CPP-02**
 
 - 🌱 I’m currently learning **C++**
