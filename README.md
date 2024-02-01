@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thee-falcon&label=Profile%20views&color=0e75b6&style=flat" alt="thee-falcon" /> </p>
 
-- 🔭 I’m currently working on **CPP-01**
+- 🔭 I’m currently working on **CPP-02**
 
 - 🌱 I’m currently learning **C++**
 
