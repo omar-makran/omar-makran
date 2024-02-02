@@ -1,9 +1,9 @@
 ![Banner](https://clarikagroup.com/wp-content/uploads/2020/11/portada-nota-blog.png)
 <h1 align="center">Hi 👋, I'm Omar Makran</h1>
-<h3 align="center">Student at 1337 Coding, 42-Network </></h3>
+<h3 align="center">Student at 1337 Coding, 42-Network </> </h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
-- 🔭 I’m currently working on **CPP-02**
+- 🔭 I’m currently working on **42 curriculum**
 
 - 🌱 I’m currently learning **C++**
 
