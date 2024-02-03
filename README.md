@@ -1,4 +1,4 @@
-![Animated Banner](https://raw.githubusercontent.com/thee-falcon/simple_html/main/https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![Banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Omar Makran</h1>
 <h3 align="center">Student at 1337 Coding, 42-Network </h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
