@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I'm+Omar+Makran)](https://git.io/typing-svg)
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <h3 align="center">Student at 1337 Coding, 42-Network </h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
