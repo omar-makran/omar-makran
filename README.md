@@ -1,5 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=900&size=34&duration=5001&pause=1001&color=7415FF&random=false&width=435&lines=Hi+I'm+Omar+Makran+.+.+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&weight=900&size=34&duration=5001&pause=1001&color=7415FF&random=false&width=435&lines=Hi+I'm+Omar+Makran+...." alt="Typing SVG" /></a>
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <h3 align="center">Student at 1337 Coding, 42-Network </h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
