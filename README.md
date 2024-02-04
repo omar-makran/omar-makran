@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on **42 curriculum**
 - 🌱 I’m currently learning **C++**
 - ⚡ Fun fact **1 & 0 = 0**
+- 🎮 Play games with me on [Coding Game](https://www.codingame.com/profile/thefalcon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,9 +45,6 @@
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  </a>
-  <a href="https://www.codingame.com/profile/bfc02930b3d6bcde5ff88920a350d7489202875" target="_blank" rel="noreferrer">
-    <img src="https://path-to-coding-game-icon.png" alt="Coding Game" width="40" height="40"/>
   </a>
 </p>
 
