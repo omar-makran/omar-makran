@@ -45,7 +45,7 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   </a>
-  <a href="https://www.codingame.com/profile/your-username" target="_blank" rel="noreferrer">
+  <a href="https://www.codingame.com/profile/bfc02930b3d6bcde5ff88920a350d7489202875" target="_blank" rel="noreferrer">
     <img src="https://path-to-coding-game-icon.png" alt="Coding Game" width="40" height="40"/>
   </a>
 </p>
