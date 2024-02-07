@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on **42 curriculum**
 - 🌱 I’m currently learning **C++**
 - ⚡ Fun fact **1 & 0 = 0**
-- 🎮 Play games with me on [Coding Game](https://www.codingame.com/profile/bfc02930b3d6bcde5ff88920a350d7489202875)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
