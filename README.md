@@ -51,4 +51,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thee-falcon&show_icons=true&locale=en" alt="thee-falcon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thee-falcon&" alt="thee-falcon" /></p>
