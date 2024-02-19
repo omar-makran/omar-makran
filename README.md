@@ -47,7 +47,12 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thee-falcon&show_icons=true&locale=en&layout=compact" alt="thee-falcon" /></p>
+<a href="https://github.com/thee-falcon">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thee-falcon&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=algolia"
+      />
+ </a>
 
 <p align="center">
     <a href="https://github.com/thee-falcon">
