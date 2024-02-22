@@ -47,25 +47,3 @@
   </a>
 </p>
 
-<a href="https://github.com/thee-falcon">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thee-falcon&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=algolia"
-      />
- </a>
-
-<p align="center">
-    <a href="https://github.com/thee-falcon">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=thee-falcon&theme=algolia&show_icons=true"
-      />
-    </a>
-  <a href="https://github.com/thee-falcon">
-      <img
-        align="center"
-        src="http://github-readme-streak-stats.herokuapp.com?user=thee-falcon&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B"
-      />
- </a>
-</p>
-
