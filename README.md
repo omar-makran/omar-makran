@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **42 curriculum**
 - 🌱 I’m currently learning **C++**
-- ⚡ Fun fact **1 & 0 = 0**
+- 📫 How to reach me **omar.makran.10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
