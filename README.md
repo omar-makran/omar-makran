@@ -1,16 +1,11 @@
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <h3 align="center"> An Aspiring IOS developer and Student at 1337 Coding </h3>
-<img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 - 🔭 I’m currently working on **42 curriculum**
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me **omar.makran.10@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/omar-makran-97741b296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar makran" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
