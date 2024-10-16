@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <h3 align="center"> An Aspiring IOS developer and Student at 1337 Coding </h3>
 
-- 📫 How to reach me **omar.makran.10@gmail.com**
-- 💡 Or Connect with me on Linkedin: https://www.linkedin.com/in/omar-makran-97741b296/
+- 📫 Connect with me on Linkedin: https://www.linkedin.com/in/omar-makran-97741b296/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
