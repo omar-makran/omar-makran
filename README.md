@@ -26,11 +26,11 @@
 
 # 🔥 My GitHub Journey:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=algolia&hide_border=true&border_radius=4.6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=thee-falcon&theme=algolia&hide_border=true&border_radius=4.6" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/omar-makran-97741b296/)
 
