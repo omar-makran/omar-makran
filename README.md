@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+iOS+Developer;Student+At+1337+Coding+School;Dreaming+Big+%26+Building+Bigger!;Exploring+Code+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/thee-falcon/thee-falcon/raw/main/assets/banner.gif" alt="Welcome Banner" width="100%"/>
-</p>
-
----
-
 <h2 align="center">👋 A Little About Me</h2>
 
 🌟 Hey there! I'm an ambitious **iOS developer** and an explorer of the coding cosmos. As a student at **1337 Coding School**, I'm constantly pushing the boundaries of my programming skills. My journey is fueled by curiosity, creativity, and coffee ☕.
