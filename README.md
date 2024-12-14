@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70C0C&center=true&width=435&lines=🌌Welcome+to+My+Code+Universe!🌌;Student+At+1337+Coding+School;Coder+%7C+Innovator+%7C+Dreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=435&lines=Welcome+to+My+Code+Universe!;Student+At+1337+Coding+School;Coder+%7C+Innovator+%7C+Dreamer" alt="Typing SVG" />
 </div>
 
 # 💻 About Me:
@@ -10,10 +10,12 @@
 ---
 
 # ⚙️ My Tools:
+![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift)
+![UIKit](https://img.shields.io/badge/-UIKit-blue?style=flat-square&logo=apple)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?style=flat-square&logo=apple)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=C%2B%2B)
-![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
