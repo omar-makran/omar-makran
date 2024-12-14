@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70C0C&center=true&width=435&lines=Welcome+to+My+Code+Universe!;Coder+%7C+Innovator+%7C+Dreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70C0C&center=true&width=435&lines=🌌Welcome+to+My+Code+Universe!🌌;Student+At+1337+Coding+School;Coder+%7C+Innovator+%7C+Dreamer" alt="Typing SVG" />
 </div>
 
 # 💻 About Me:
@@ -21,8 +21,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux)
-
----
 
 # 🔥 My GitHub Journey:
 <div align="center">
