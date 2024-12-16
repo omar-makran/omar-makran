@@ -27,11 +27,6 @@
 
 ## 🔥 **GitHub Journey**  
 <div align="center">
-  <!-- Languages Used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thee-falcon&layout=compact&theme=monokai&hide_border=true&border_radius=10" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thee-falcon&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
