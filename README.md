@@ -24,9 +24,22 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux)
 
-# 🔥 My GitHub Journey:
+## 🔥 **GitHub Journey**  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thee-falcon&theme=algolia&hide_border=true&border_radius=4.6" alt="GitHub Streak" />
+  <!-- Languages Used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thee-falcon&layout=compact&theme=monokai&hide_border=true&border_radius=10" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thee-falcon&theme=react-dark&bg_color=0d1117&hide_border=true&line=61dafb&color=61dafb" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📊 **Coding Activity**  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thee-falcon&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
