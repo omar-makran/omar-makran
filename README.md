@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=435&lines=Welcome+to+My+Code+Universe!;Student+At+1337+Coding+School;Coder+%7C+Innovator+%7C+Dreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0077B6&center=true&width=435&lines=Welcome+to+My+Code+Universe!;+An+Aspiring+IOS+Developer;Student+At+1337+Coding+School;Coder+%7C+Innovator+%7C+Dreamer" alt="Typing SVG" />
 </div>
 
 # 💻 About Me:
+-  An Aspiring IOS developer and Student at 1337 Coding School.
 - 🔭 Currently mastering Swift and iOS Development.
 - 🌟 Known for creativity and perseverance.
 - 🚀 Building projects that push boundaries.
@@ -30,14 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thee-falcon&layout=compact&theme=monokai&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thee-falcon&theme=react-dark&bg_color=0d1117&hide_border=true&line=61dafb&color=61dafb" alt="Contribution Graph" />
-</div>
-
----
-
-## 📊 **Coding Activity**  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thee-falcon&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
