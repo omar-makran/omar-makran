@@ -23,9 +23,9 @@
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift)
 ![UIKit](https://img.shields.io/badge/-UIKit-blue?style=flat-square&logo=apple)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?style=flat-square&logo=apple)
+![Xcode](https://img.shields.io/badge/-Xcode-1E90FF?style=flat-square&logo=xcode&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin%20Multiplatform-purple?style=flat-square&logo=kotlin)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea)
-![Xcode](https://img.shields.io/badge/-Xcode-1E90FF?style=flat-square&logo=xcode&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=C%2B%2B)
@@ -47,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
 ---
