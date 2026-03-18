@@ -30,12 +30,11 @@ Mobile developer and **1337 Coding School** student, part of the peer-to-peer **
 
 Every line of code is a step forward.
 <br/>
-- 🦋 &nbsp;**Learning Flutter & Dart** — cross-platform beautiful UIs
-- 🍎 &nbsp;**iOS with Swift** — SwiftUI & UIKit, love the native feel
-- 🎓 &nbsp;**1337 Coding School** — peer learning, real projects
-- 🤖 &nbsp;Exploring **Kotlin Multiplatform** for multi-target apps
-- 📖 &nbsp;Turning school projects into portfolio-worthy apps
-- ⚡ &nbsp;Consistent. Curious. Committed.
+- &nbsp;**Learning Flutter & Dart** — cross-platform beautiful UIs
+- &nbsp;**iOS with Swift** — SwiftUI & UIKit, love the native feel
+- &nbsp;**1337 Coding School** — peer learning, real projects
+- &nbsp;Turning school projects into portfolio-worthy apps
+- &nbsp;Consistent. Curious. Committed.
 
 <br clear="right"/>
 
